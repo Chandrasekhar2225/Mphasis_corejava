@@ -1,0 +1,17 @@
+li:hover { 
+    background-color:rgb(49, 88, 150);
+    font-color:white;
+}
+
+li.a:hover
+{
+font:white;
+}
+li.a:hover, a.a:active
+ {
+ 	color: red;
+ }
+ img {
+    max-width: 100%;
+    height: 900;
+}
